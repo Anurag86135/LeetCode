@@ -76,8 +76,8 @@ I am consistently improving my problem-solving skills and preparing for technica
 
 ## 🤝 Connect With Me
 
-* LinkedIn: (Add your link)
-* GitHub: (Your profile)
+* LinkedIn: ([Add your link](https://www.linkedin.com/in/anurag-mishra-a7a6b5311/?trk=public_profile-settings_see-all-posts))
+* GitHub: ([Your profile](https://github.com/Anurag86135))
 
 ---
 
