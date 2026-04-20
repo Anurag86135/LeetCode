@@ -58,5 +58,5 @@ int main(){
     else{
         cout<<"No cycle "<<endl;
     }
-    return 0;
+    return 0
 }
